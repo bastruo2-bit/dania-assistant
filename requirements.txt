@@ -1,2 +1,2 @@
-pipecat-ai[daily,openai,elevenlabs]
+pipecat-ai[daily,elevenlabs]
 python-dotenv
